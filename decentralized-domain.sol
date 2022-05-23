@@ -301,7 +301,7 @@ contract Domains is ERC721URIStorage {
             if(domains[_id].SUBDOMAINS.length()>0)
             {
                 for (uint i = 0; i < domains[_id].SUBDOMAINS.length(); i++) {                              
-                    _resetTokenBurn(domains[_id].SUBDOMAINS.at(i));                               
+                    burn(domains[_id].SUBDOMAINS.at(i));
                 }     
             }
 
