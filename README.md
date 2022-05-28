@@ -1,6 +1,6 @@
 # Decentralized-Domains
 
-Boilerplate code to create decentralized domains. An alternative to unstoppable domains but with more decentralized features.
+Boilerplate code to create decentralized domains on blockchain. An alternative to UNSTOPPABLE DOMAINS but with more decentralized features.
 
 ---------------------------------------------------
 
